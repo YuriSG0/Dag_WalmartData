@@ -1,0 +1,8 @@
+#Arquivo Env com dados sigilosos
+config/.env
+
+#Arquivo para carga de planilha teste
+repositories/search_data.py
+
+#Arquivo com configurações do airflow
+config/airflow.cfg
